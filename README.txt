@@ -17,8 +17,8 @@ What is .megaignore and how do I use it?
 https://help.mega.io/installs-apps/desktop/megaignore
 
 
-My .megaignore file was created from my .gitignore file
-using the git2megaignore tool:
+My .megaignore file was generated from my .gitignore file
+using the git2megaignore tool (v0.3.1):
 https://github.com/Farfi55/git2megaignore
 
 

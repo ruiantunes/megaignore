@@ -25,6 +25,7 @@
 # Temporary (backup) files.
 #
 -nG:*.bak
+-nG:*.kate-swp
 -nG:*~
 -nG:.~*
 -nG:~$*

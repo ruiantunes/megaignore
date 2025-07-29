@@ -19,6 +19,7 @@ __MACOSX/
 # Temporary (backup) files.
 #
 *.bak
+*.kate-swp
 *~
 .~*
 ~$*
