@@ -18,9 +18,9 @@ https://help.mega.io/installs-apps/desktop/megaignore
 
 
 My .megaignore file was generated from my .gitignore file
-using the git2megaignore tool (v0.3.1):
+using the git2megaignore tool (v0.4.0):
 https://github.com/Farfi55/git2megaignore
 
 
 Command used for the conversion:
-$ git2megaignore -m -e -i .gitignore -o .megaignore
+$ git2megaignore -m -e -C -i .gitignore -o .megaignore
