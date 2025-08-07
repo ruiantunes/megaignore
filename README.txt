@@ -10,14 +10,14 @@ Repository:
     https://github.com/ruiantunes/megaignore
 
 
-------------------------------------------------------------------------
+---
 
 
 What is .megaignore and how do I use it?
 https://help.mega.io/installs-apps/desktop/megaignore
 
 
-My .megaignore file was generated from my .gitignore file
+The .megaignore file was generated from the .gitignore file
 using the git2megaignore tool (v0.4.0):
 https://github.com/Farfi55/git2megaignore
 
